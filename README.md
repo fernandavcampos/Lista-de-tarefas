@@ -5,6 +5,10 @@
 #### A interface amigável do projeto torna a criação e a gestão de tarefas mais simples e intuitiva.<br>
 #### Com o filtro e ordenação, é possível visualizar as tarefas de acordo com sua preferência, permitindo uma organização mais estratégica e otimizada.
 
+## Visualizar projeto
+
+O projeto pode ser visualizado em: https://unique-souffle-84b67d.netlify.app
+
 ## Tecnologias usadas
 + React
 + JavaScript
